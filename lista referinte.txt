@@ -1,0 +1,7 @@
+www.surf-vhdl.com
+https://reference.digilentinc.com/basys3/refmanual
+https://www.youtube.com/watch?v=pMcVA4EUZAw
+http://web.mst.edu/~daryl/nsf-ccli/models/pwm_datasheet.pdf
+http://www.deviceplus.com/how-tos/arduino-guide/intro-to-fpgas-with-the-mojo-part-2/2/
+
+Ziad Nouman, Bohumil Klima, Jan Knobloch - "Generating PWM Signals With Variable Duty From 0% to 100% Based FPGA SPARTAN3AN "
